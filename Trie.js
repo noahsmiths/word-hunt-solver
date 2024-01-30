@@ -1,3 +1,5 @@
+// Acquired from https://gist.github.com/tpae/72e1c54471e88b689f85ad2b3940a8f0. Thanks, kind author!
+
 // Trie.js - super simple JS implementation
 // https://en.wikipedia.org/wiki/Trie
 
