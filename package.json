@@ -1,0 +1,13 @@
+{
+  "name": "word-hunt-solver",
+  "version": "1.0.0",
+  "description": "Wow, a node project with no dependencies! You don't see that everyday!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
